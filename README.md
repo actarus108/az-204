@@ -11,3 +11,7 @@ Formateur : Yannick Willi
 # Les liens évoqués pendant la formation
 
 [Conventions de nommage](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
+
+https://docs.microsoft.com/en-us/azure/api-management/api-management-transformation-policies#ConvertJSONtoXML
+
+https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
