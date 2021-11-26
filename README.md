@@ -15,3 +15,5 @@ Formateur : Yannick Willi
 https://docs.microsoft.com/en-us/azure/api-management/api-management-transformation-policies#ConvertJSONtoXML
 
 https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
+
+https://docs.microsoft.com/en-us/learn/paths/build-workflows-with-logic-apps/
