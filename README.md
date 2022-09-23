@@ -10,6 +10,9 @@ Formateur : Yannick Willi
 
 # Les liens évoqués pendant la formation
 
+https://learn.microsoft.com/fr-fr/certifications/azure-developer/
+
+
 [Conventions de nommage](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
 https://docs.microsoft.com/en-us/azure/api-management/api-management-transformation-policies#ConvertJSONtoXML
